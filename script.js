@@ -35,9 +35,9 @@ const questions = [
         q: "¿Qué parábola del Evangelio está mencionada en las bases bíblicas?",
         a: "La parábola del trigo y la cizaña (Mateo 13:24-30)",
         opts: [
-            "La parábola del hijo pródigo",
-            "La parábola del sembrador",
             "La parábola del trigo y la cizaña (Mateo 13:24-30)",
+            "La parábola del sembrador",
+            "La parábola del hijo pródigo",
             "La parábola del buen samaritano"
         ],
         hint: "Una parábola que habla de trigo y de mala planta junto a él."
@@ -45,15 +45,15 @@ const questions = [
     {
         q: "En la historia del niño y la planta ¿qué insecto dañaba la planta?",
         a: "Una hormiga",
-        opts: ["Una mariposa", "Una hormiga", "Una abeja", "Un caracol"],
+        opts: ["Una mariposa", "Un caracol", "Una abeja", "Una hormiga"],
         hint: "El texto habla de deshacerse de este insecto para que la planta pueda crecer."
     },
     {
         q: "Según la lección de hoy, ¿qué se debe quitar para permitir un verdadero crecimiento espiritual?",
         a: "Envidia, malicia, engaños e hipocresía",
         opts: [
-            "Envidia, malicia, engaños e hipocresía",
             "La ropa vieja",
+            "Envidia, malicia, engaños e hipocresía",
             "Las hojas verdes",
             "Los libros de la biblioteca"
         ],
@@ -63,17 +63,17 @@ const questions = [
         q: "¿Qué condición práctica se recomienda para que la planta crezca bien?",
         a: "El terreno debe estar abonado",
         opts: [
-            "El terreno debe estar abonado",
+            "Ponerle sal alrededor",
             "Siempre dejar la planta sin agua",
             "Colocarla en la oscuridad total",
-            "Ponerle sal alrededor"
+            "El terreno debe estar abonado"
         ],
         hint: "Es una acción típica en jardinería para nutrir la tierra."
     },
     {
         q: "¿Qué hace Jesús cuando enseña sobre sembrar y cosechar en la lección de hoy?",
         a: "Habla por parábolas",
-        opts: ["Escribe cartas", "Habla por parábolas", "Construye casas", "Cocina pan"],
+        opts: ["Escribe cartas", "Construye casas","Habla por parábolas", "Cocina pan"],
         hint: "Es su forma habitual de enseñar con historias con enseñanza."
     },
     {
@@ -103,9 +103,9 @@ const questions = [
         a: "Aquellas actitudes o pecados que impiden el amor fraternal",
         opts: [
             "Los frutos que da un buen cristiano",
-            "Aquellas actitudes o pecados que impiden el amor fraternal",
+            "Las pruebas que fortalecen la fe",
             "Las bendiciones que Dios da a su pueblo",
-            "Las pruebas que fortalecen la fe"
+            "Aquellas actitudes o pecados que impiden el amor fraternal"
         ],
         hint: "Involucra completar oraciones en un tablero o cartulina."
     },
@@ -125,8 +125,8 @@ const questions = [
         a: "Aplicó un remedio para matar la hormiga y conservar la planta",
         opts: [
             "Se fue de viaje",
-            "Aplicó un remedio para matar la hormiga y conservar la planta",
             "Regaló la planta",
+            "Aplicó un remedio para matar la hormiga y conservar la planta",
             "La enterró inmediatamente"
         ],
         hint: "La historia dice que la madre actuó para salvar la planta."
@@ -145,7 +145,7 @@ const questions = [
     {
         q: "¿Qué elemento se menciona que debe tener la semilla para buen crecimiento?",
         a: "Ser de buena calidad",
-        opts: ["Ser de buena calidad", "Ser muy pequeña", "Tener colores brillantes", "Ser pesada"],
+        opts: ["Tener colores brillantes", "Ser muy pequeña", "Ser de buena calidad", "Ser pesada"],
         hint: "La lección indica una característica deseable de la semilla para crecer bien."
     }
 ];
